@@ -1,0 +1,27 @@
+body{
+  font-family: "Century gothic";
+  background-color: #faf2da ;
+  color: #4a503d;
+  }
+
+img{
+  width: 160px;
+  height: 160px;
+}
+
+hr{
+  color: #e28f83;
+  width: 5%;
+  border-width: 6px;
+  border-style: none;
+  border-top-style: dotted;
+}
+
+h2{
+  margin-left: 12px;
+  text-shadow: 0.25px 0.5px #e28f83;
+}
+
+table{
+  margin-left: 10px;
+}
